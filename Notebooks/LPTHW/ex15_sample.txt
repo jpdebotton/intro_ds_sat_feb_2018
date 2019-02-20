@@ -1,0 +1,6 @@
+Hola yo soy el archivo .txt de Juan Pablo.
+Vamos a aprender primero como crearme y leerme
+para posteriormente manipularme :)
+Como podemos ver se pueden escribir
+múltiples líneas de código
+y agregarlas al final de nuestro archivo dentro de Python
